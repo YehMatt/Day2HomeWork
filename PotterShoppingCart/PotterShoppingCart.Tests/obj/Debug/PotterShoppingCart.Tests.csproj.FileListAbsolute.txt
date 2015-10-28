@@ -1,0 +1,18 @@
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.csprojResolveAssemblyReference.cache
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.Tests.dll
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.Tests.pdb
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\ExpectedObjects.dll
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.dll
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.pdb
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.dll
+D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.pdb
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.csprojResolveAssemblyReference.cache
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.dll
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.pdb
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.Tests.dll
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.Tests.pdb
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\ExpectedObjects.dll
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.dll
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.pdb
