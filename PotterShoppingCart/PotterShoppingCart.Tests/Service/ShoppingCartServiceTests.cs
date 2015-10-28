@@ -26,9 +26,7 @@ namespace PotterShoppingCart.Service.Tests
         public void CalculateOrderNetAmountTest_第一集買了一本_其他都沒買_價格應為100元()
         {
             List<Book> books = new List<Book> {
-                                        new Book {ID = 1, Name = "哈利波特1", Price = 100 },
-                                        new Book {ID = 2, Name = "哈利波特2", Price = 100 }
-
+                                        new Book {ID = 1, Name = "哈利波特1", Price = 100 }                                        
             };
 
             order.Books = books;

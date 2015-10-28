@@ -4,3 +4,9 @@ D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homewor
 D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart\bin\PotterShoppingCart.pdb
 D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart\obj\Debug\PotterShoppingCart.dll
 D:\自動測試與 TDD 實務開發\day2-lab-source\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart\obj\Debug\PotterShoppingCart.pdb
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart\bin\PotterShoppingCart.dll.config
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart\bin\PotterShoppingCart.dll
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart\bin\PotterShoppingCart.pdb
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart\obj\Debug\PotterShoppingCart.csprojResolveAssemblyReference.cache
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart\obj\Debug\PotterShoppingCart.dll
+D:\MattGitHub\Day2HomeWork\PotterShoppingCart\PotterShoppingCart\obj\Debug\PotterShoppingCart.pdb

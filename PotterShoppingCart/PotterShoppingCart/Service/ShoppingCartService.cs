@@ -23,7 +23,7 @@ namespace PotterShoppingCart.Service
             return booksCount;
         }
 
-        public int CalculateOrderNetAmount(Order order)
+        public double CalculateOrderNetAmount(Order order)
         {
             double netAmount = 0;
 
@@ -33,7 +33,7 @@ namespace PotterShoppingCart.Service
 
             netAmount += CalculateDiscount(p.ToList());
 
-            return 0;
+            return netAmount;
         }
 
         private double CalculateDiscount(List<Book> _books)
